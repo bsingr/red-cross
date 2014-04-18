@@ -6,12 +6,12 @@ TextMate and Sublime Text compatible theme
 
 ### Clone the repository
 
-    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+    cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
     git clone git://github.com/dpree/red-cross.git Red\ Cross
 
 ### Usage
 
-In the menu `Sublime Text 2` -> `Preferences` -> `Color Scheme` choose Red Cross
+In the menu `Sublime Text 3` -> `Preferences` -> `Color Scheme` choose Red Cross
 
 ## TODO
 
