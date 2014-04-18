@@ -14,11 +14,11 @@
                 <key>background</key>
                 <string>#fff</string>
                 <key>caret</key>
-                <string>#ddeeff</string>
+                <string>#cc0000</string>
                 <key>foreground</key>
                 <string>#999999</string>
                 <key>invisibles</key>
-                <string>#530057</string>
+                <string>#ccc</string>
                 <key>lineHighlight</key>
                 <string>#ddeeff</string>
                 <key>selection</key>
